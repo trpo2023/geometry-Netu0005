@@ -1,0 +1,8 @@
+*.[oa]
+*~
+*swp
+*.txt
+!input.txt
+.main.c.swp
+main.c~
+#main.c#
